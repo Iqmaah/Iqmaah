@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I'm Hikmah Abdulganiyy
+### I write Javascript, ReactJS, and a little bit of Angular.
+
 <!--
 **Iqmaah/Iqmaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
